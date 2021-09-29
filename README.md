@@ -250,8 +250,8 @@ Por último, se ingresan tres mensajes para probar el funcionamiento del program
      [![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/Skullzo/AREP-Lab5)
 
 ## Autor
-[Alejandro Toro Daza](https://github.com/Skullzo)
+[Felipe Marin](https://github.com/PhillipMarin117)
 ## Licencia & Derechos de Autor
-**©** Alejandro Toro Daza, Estudiante de Ingeniería de Sistemas de la [Escuela Colombiana de Ingeniería Julio Garavito](https://www.escuelaing.edu.co/es/).
+**©** Felipe Marin, Estudiante de Ingeniería de Sistemas de la [Escuela Colombiana de Ingeniería Julio Garavito](https://www.escuelaing.edu.co/es/).
 
 Licencia bajo la [GNU General Public License](https://github.com/Skullzo/AREP-Lab5/blob/main/LICENSE).
